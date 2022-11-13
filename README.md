@@ -1,5 +1,6 @@
-# Vaibhavi Thakkar
-Mobile Application Developer and Business Analyst
+## Vaibhavi Thakkar
+# Mobile Application Developer and Business Analyst
+
 Having 6+ years of experience to build & break rich applications using iPhone technology and frameworks. Cohesive team worker, strong analytical, problem solving and interpersonal skills. Good Experience in Software Engineering Concepts including Designing, Programming, Implementation and Testing. Having good knowledge of agile methodology. Ability to conceptualize, document, and communicate project ideas and plans. Enthusiastic and quick to learn new applications and tools and willing to take individual responsibilities.
 
 # Education
