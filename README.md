@@ -11,12 +11,16 @@ Having 6+ years of experience to build & break rich applications using iPhone te
 ## [Project 1: GadgetBot]([http://youtube.com/dataprofessor](https://github.com/ShrutikaDRaut/Capstone2))
 ![Gadget Chatbot](GadgetBot.png)
 
-Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+GadgetBot provides innovative and automated system that helps customer to buy gadgets at best deal. A web-based software powered with AI that allows customer to browse the gadgets and bargain with the chatbot for the flexible price.
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+* **Technologies Used:** 
+Python
+HTML/CSS
+Javascript
+Django
+Rasa
+SQLite
+
 
 ## [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 ![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
