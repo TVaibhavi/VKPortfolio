@@ -8,7 +8,7 @@ Having 6+ years of experience to build & break rich applications using iPhone te
 * Post Graduation in Artifical Intelligence,Durham College,Canada (2021 - 2022)
 * Post Graduation in Data Analytics in Business Management,Durham College,Canada (2022- 2023)
 
-## [Project 1: GadgetBot]([https://github.com/ShrutikaDRaut/Capstone2])
+## [Project 1: GadgetBot]([https://github.com/TVaibhavi/GadgetChatbot])
 ![Gadget Chatbot](GadgetBot.png)
 
 GadgetBot provides innovative and automated system that helps customer to buy gadgets at best deal. A web-based software powered with AI that allows customer to browse the gadgets and bargain with the chatbot for the flexible price.
