@@ -30,10 +30,10 @@ Responsible for design apps from scratch.Maintain the live app and bug fixes. Im
 Responsible for design apps from scratch.Necessary certification creation for deploying app . Maintain the live app and bug fixes. Implement functionality as described.Design app from scratch. Maintain the live app and bug fixes. Implement functionality as described.Testing on development environment and production environment.Releasing app to Appstore
 
 ### Live Application developed and deployed to Appstore
-### [M1-Ordering:] URL([https://apps.apple.com/us/app/grocery-order-cygneto-order/id1217775259])
-### [Cygneto Field Sales:] URL([https://apps.apple.com/us/app/cygneto-field-sales/id1174884191])
-### [Blocks In Line:] URL([https://apps.apple.com/ie/app/blocks-in-line/id809376108#?platform=iphone])
-### [Body Fitness App:] URL([https://apps.apple.com/ie/app/blocks-in-line/id809376108#?platform=iphone])
+### [M1-Ordering](https://apps.apple.com/us/app/grocery-order-cygneto-order/id1217775259)
+### [Cygneto Field Sales](https://apps.apple.com/us/app/cygneto-field-sales/id1174884191)
+### [Blocks In Line](https://apps.apple.com/ie/app/blocks-in-line/id809376108#?platform=iphone)
+### [Body Fitness App](https://apps.apple.com/ie/app/blocks-in-line/id809376108#?platform=iphone)
 
 ## Experience: As Student (Machine Learning Developer)
 
