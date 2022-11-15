@@ -17,7 +17,7 @@ Having 6+ years of experience to build & break rich applications using iPhone te
 
 ## Experience:
 
-# <u> Sr. Software Engineer – App Developer <\u>
+# <ins> Sr. Software Engineer – App Developer <\ins>
 ### Cygnet Infotech Pvt Ltd.
 ### September 2015 to March 2020
 
