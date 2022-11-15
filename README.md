@@ -15,7 +15,7 @@ Having 6+ years of experience to build & break rich applications using iPhone te
 * Tools: Jira, Basecamp, Airtable, Scrum, XCode, SmartSVN, Gitlab, Bitbucket, GitHub,Tableau
 * Programming Concepts: OOPS, MVC, Distributed Caching
 
-## Experience:
+## Experience: Senior Software Engineer (Mobile Application Developer)
 
 ## <ins>  Cygnet Infotech Pvt Ltd.
 #### Sr. Software Engineer – App Developer (September 2015 to March 2020)
@@ -28,6 +28,14 @@ Responsible for design apps from scratch.Maintain the live app and bug fixes. Im
 ## <ins> Appmax Technologies
 #### Jr. Software Developer (August 2013 to December 2014)
 Responsible for design apps from scratch.Necessary certification creation for deploying app . Maintain the live app and bug fixes. Implement functionality as described.Design app from scratch. Maintain the live app and bug fixes. Implement functionality as described.Testing on development environment and production environment.Releasing app to Appstore
+
+## Live Application developed and deployed to Appstore
+### M1-Ordering: URL(https://apps.apple.com/us/app/grocery-order-cygneto-order/id1217775259)
+### Cygneto Field Sales: URL(https://apps.apple.com/us/app/cygneto-field-sales/id1174884191)
+### Blocks In Line: URL(https://apps.apple.com/ie/app/blocks-in-line/id809376108#?platform=iphone)
+### Body Fitness App: URL(https://apps.apple.com/ie/app/blocks-in-line/id809376108#?platform=iphone)
+
+## Experience: As Student (Machine Learning Developer)
 
 ## [Project 1: GadgetBot]([https://github.com/TVaibhavi/GadgetChatbot])
 ![Gadget Chatbot](GadgetBot.png)
