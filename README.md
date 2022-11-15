@@ -1,6 +1,6 @@
 # Vaibhavi Thakkar
 ## Sr.Software Engineer and Business Analyst
-### [LinkedIn Profile]([www.linkedin.com/in/vaibhavi-khakhkhar-thakkar-0b54005a])
+### [LinkedIn Profile](https://www.linkedin.com/in/vaibhavi-khakhkhar-thakkar-0b54005a)
 
 Having 6+ years of experience to build & break rich applications using iPhone technology and frameworks. Cohesive team worker, strong analytical, problem solving and interpersonal skills. Good Experience in Software Engineering Concepts including Designing, Programming, Implementation and Testing. Having good knowledge of agile methodology. Ability to conceptualize, document, and communicate project ideas and plans. Enthusiastic and quick to learn new applications and tools and willing to take individual responsibilities.
 
@@ -33,7 +33,7 @@ Responsible for design apps from scratch.Necessary certification creation for de
 
 ### Live Application developed and deployed to Appstore
 ### [M1-Ordering](https://apps.apple.com/us/app/grocery-order-cygneto-order/id1217775259)
-### [Cygneto Field Sales](https://apps.apple.com/us/app/cygneto-field-sales/id1174884191)
+### [Cygneto Field Sales](https://apps.apple.com/us/app/cygneto-field-sales/id1174884191?platform=iphone)
 ### [Blocks In Line](https://apps.apple.com/ie/app/blocks-in-line/id809376108#?platform=iphone)
 ### [Body Fitness App](https://apps.apple.com/ie/app/blocks-in-line/id809376108#?platform=iphone)
 
