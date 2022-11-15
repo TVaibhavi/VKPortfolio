@@ -23,7 +23,7 @@ SQLite
 
 
 ## [Project 2: ML - Breast Cancer Detection](https://github.com/TVaibhavi/Breast_Cancer_Lab1)
-![Breast Cancer Detection](ML.png)
+![Breast Cancer Detection](MLpng.png)
 
 
 This project makes use of ***Machine Learning*** of Breast Cancer detection coupled with ***technical analysis*** in the detection of desease.
