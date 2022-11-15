@@ -17,8 +17,8 @@ Having 6+ years of experience to build & break rich applications using iPhone te
 
 ## Experience:
 
-# <ins> Sr. Software Engineer – App Developer <\ins>
-### Cygnet Infotech Pvt Ltd.
+# <ins>  Cygnet Infotech Pvt Ltd.
+### Sr. Software Engineer – App Developer  
 ### September 2015 to March 2020
 
 Responsible for analysis, impact, development and end to end delivery. Impact of requirement and feature on new or existing apps. Managed & Improved Project Architectures. Involved in analysis, coding, and testing. Planning for deployment and delivering features to production. Must promote and work well in a team environment. Design app from scratch. Maintain the live app and bug fixes. Implement functionality as described. Testing on development environment and production environment.
