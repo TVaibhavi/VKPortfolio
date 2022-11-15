@@ -17,7 +17,7 @@ Having 6+ years of experience to build & break rich applications using iPhone te
 
 ## Experience:
 
-# Alt-H2 Sr. Software Engineer – App Developer
+# <u> Sr. Software Engineer – App Developer <\u>
 ### Cygnet Infotech Pvt Ltd.
 ### September 2015 to March 2020
 
