@@ -1,5 +1,6 @@
 # Vaibhavi Thakkar
-## Mobile Application Developer and Business Analyst
+## Sr.Software Engineer and Business Analyst
+### [LinkedIn Profile]([www.linkedin.com/in/vaibhavi-khakhkhar-thakkar-0b54005a])
 
 Having 6+ years of experience to build & break rich applications using iPhone technology and frameworks. Cohesive team worker, strong analytical, problem solving and interpersonal skills. Good Experience in Software Engineering Concepts including Designing, Programming, Implementation and Testing. Having good knowledge of agile methodology. Ability to conceptualize, document, and communicate project ideas and plans. Enthusiastic and quick to learn new applications and tools and willing to take individual responsibilities.
 
@@ -14,6 +15,7 @@ Having 6+ years of experience to build & break rich applications using iPhone te
 * Databases: SQLite, Core Database
 * Tools: Jira, Basecamp, Airtable, Scrum, XCode, SmartSVN, Gitlab, Bitbucket, GitHub,Tableau
 * Programming Concepts: OOPS, MVC, Distributed Caching
+* Visualization Tool : Tableau,PowerBI
 
 ## Experience: Senior Software Engineer (Mobile Application Developer)
 
@@ -23,11 +25,11 @@ Responsible for analysis, impact, development and end to end delivery. Impact of
 
 ## <ins> Amphee Webtech Pvt Ltd
 #### Software Developer (January 2015 to September 2015)
-Responsible for design apps from scratch.Maintain the live app and bug fixes. Implement functionality as described.Design app from scratch. Maintain the live app and bug fixes. Implement functionality as described.Testing on development environment and production environment.Necessary certification creation for deploying app.Releasing app to Appstore
+Responsible for design apps from scratch.Maintain the live app and bug fixes. Implement functionality as described.Design app from scratch.Testing on development environment and production environment.Necessary certification creation for deploying app.Releasing app to Appstore
 
 ## <ins> Appmax Technologies
 #### Jr. Software Developer (August 2013 to December 2014)
-Responsible for design apps from scratch.Necessary certification creation for deploying app . Maintain the live app and bug fixes. Implement functionality as described.Design app from scratch. Maintain the live app and bug fixes. Implement functionality as described.Testing on development environment and production environment.Releasing app to Appstore
+Responsible for design apps from scratch.Necessary certification creation for deploying app . Maintain the live app and bug fixes. Implement functionality as described.Design app from scratch.Testing on development environment and production environment.Releasing app to Appstore
 
 ### Live Application developed and deployed to Appstore
 ### [M1-Ordering](https://apps.apple.com/us/app/grocery-order-cygneto-order/id1217775259)
