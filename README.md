@@ -18,17 +18,17 @@ Having 6+ years of experience to build & break rich applications using iPhone te
 ## Experience:
 
 ## Sr. Software Engineer – App Developer
-**Cygnet Infotech Pvt Ltd.**
+# Cygnet Infotech Pvt Ltd.
 September 2015 to March 2020
 Responsible for analysis, impact, development and end to end delivery. Impact of requirement and feature on new or existing apps. Managed & Improved Project Architectures. Involved in analysis, coding, and testing. Planning for deployment and delivering features to production. Must promote and work well in a team environment. Design app from scratch. Maintain the live app and bug fixes. Implement functionality as described. Testing on development environment and production environment.
 
 ## Software Developer
-**Amphee Webtech Pvt Ltd**
+# Amphee Webtech Pvt Ltd
 January 2015 to September 2015
 Responsible for design apps from scratch.Maintain the live app and bug fixes. Implement functionality as described.Design app from scratch. Maintain the live app and bug fixes. Implement functionality as described.Testing on development environment and production environment.Necessary certification creation for deploying app.Releasing app to Appstore
 
 ## Jr. Software Developer
-**Appmax Technologies**
+# Appmax Technologies
 August 2013 to December 2014
 Responsible for design apps from scratch.Necessary certification creation for deploying app . Maintain the live app and bug fixes. Implement functionality as described.Design app from scratch. Maintain the live app and bug fixes. Implement functionality as described.Testing on development environment and production environment.Releasing app to Appstore
 
