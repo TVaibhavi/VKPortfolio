@@ -6,8 +6,8 @@ Having 6+ years of experience to build & break rich applications using iPhone te
 
 ## Education
 * Bachelors in Computer Engineering, Govt.Engineering College,India (2009 - 2013)
-* Post Graduation in Artifical Intelligence,Durham College,Canada (2021 - 2022)
-* Post Graduation in Data Analytics in Business Management,Durham College,Canada (2022- 2023)
+* Post Graduation in Artificial Intelligence Analysis, Design and Implementation, Durham College, Canada (2021 - 2022)
+* Post Graduation in Data Analytics for Business Decision Making, Durham College, Canada (2022- Present)
 
 ## Skill Set:
 * Programming Language: Objective C, Swift, Python
