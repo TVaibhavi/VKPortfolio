@@ -9,6 +9,10 @@ Having 6+ years of experience to build & break rich applications using iPhone te
 * Post Graduation in Artificial Intelligence Analysis, Design and Implementation, Durham College, Canada (2021 - 2022)
 * Post Graduation in Data Analytics for Business Decision Making, Durham College, Canada (2022- Present)
 
+## Career Roadmap
+(roadmap.png)
+
+
 ## Skill Set:
 * Programming Language: Objective C, Swift, Python
 * Framework/Technologies: iOS Touch framework, Mapkit, Location, Bluetooth, Audio recorder, Firebase
