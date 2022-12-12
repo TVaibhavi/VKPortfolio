@@ -10,7 +10,7 @@ Having 6+ years of experience to build & break rich applications using iPhone te
 * Post Graduation in Data Analytics for Business Decision Making, Durham College, Canada (2022- Present)
 
 ## Career Roadmap
-(roadmap.png)
+![Career Roadmap](roadmap.png)
 
 
 ## Skill Set:
